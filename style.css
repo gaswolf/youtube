@@ -1,0 +1,42 @@
+.img{
+	width: 30px;
+}
+.backg{
+	height: 900px;
+}
+.yellow-box{
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.height{
+	height: 100%;
+}
+
+.comment{
+	height: 50px;
+}
+.name{
+	font-size: 15px;
+	color: black;
+}
+.date{
+	font-size: 10px;
+	color:black;
+}
+.img1{
+	height: 40px;
+	width: 40px;
+	margin-top: 5px;
+}
+.text{
+	font-size: 20px;
+	color: black;
+}
+.hg{
+	height: 100px;
+}
+.height1{
+	height: 394px;
+}
